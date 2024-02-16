@@ -5,7 +5,7 @@ export default class Game {
     this.bonusThrows = [];
     this.gameSize = 10;
   }
-
+//hihi
   addFrame(frame) {
     this.frames.push(frame);
   }
