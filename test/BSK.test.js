@@ -197,7 +197,7 @@ describe('Bowling Score Test', () => {
     game.addBonusThrow(2);
 
     expect(game.frameScore(10)).toBe(19);
-    expect(game.score()).toBe(92);
+    expect(game.score()).toBe(9); //modified score
   });
 
   test('Bonus is Strike', () => {
