@@ -7,7 +7,7 @@ var port = normalizePort(process.env.PORT || '3000');
 
 app.get('/', function (req, res) {
 
-		  res.send('Hello FSE');
+		  res.send('Hello to FSE!');
 
 });
 
