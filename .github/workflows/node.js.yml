@@ -27,4 +27,4 @@ jobs:
     - run: npm ci
     - run: npm run coverage
     - name: deploy to cloud
-      run: curl "https://api.render.com/deploy/srv-cn7pr7mv3ddc73co5qog?key=WhoWDqdPWBE"
+      run: curl "https://api.render.com/deploy/srv-crliteo8fa8c73co3f4g?key=x35SiF7BWqI
